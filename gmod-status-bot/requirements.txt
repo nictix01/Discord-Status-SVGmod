@@ -1,0 +1,6 @@
+discord.py
+python-srcds
+python-dotenv
+a2s
+fade
+logging
